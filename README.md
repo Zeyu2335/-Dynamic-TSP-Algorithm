@@ -5,6 +5,8 @@ This Python script (`simulation_increasedflow_newframe.py`) simulates an interse
 
 The simulation is part of a larger project analyzing **dynamic TSP control** and **partial connectivity impacts** in mixed traffic scenarios.
 
+## 🎬 Simulation Run
+
 ---
 
 ## Key Features
