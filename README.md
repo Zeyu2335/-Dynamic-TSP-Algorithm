@@ -6,7 +6,8 @@ This Python script (`simulation_increasedflow_newframe.py`) simulates an interse
 The simulation is part of a larger project analyzing **dynamic TSP control** and **partial connectivity impacts** in mixed traffic scenarios.
 
 ## 🎬 Simulation Run
-
+Below is a short demonstration of the **Dynamic TSP Simulation** showing adaptive queue clearance and green time reallocation for buses in mixed traffic.
+https://github.com/Zeyu2335/-Dynamic-TSP-Algorithm/blob/f17312652c4dcbe265ac78e17ee8d90db283ea56/TSP%20example.mov
 ---
 
 ## Key Features
