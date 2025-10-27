@@ -7,7 +7,7 @@ The simulation is part of a larger project analyzing **dynamic TSP control** and
 
 ## 🎬 Simulation Run
 Below is a short demonstration of the **Dynamic TSP Simulation** showing adaptive queue clearance and green time reallocation for buses in mixed traffic.
-https://github.com/Zeyu2335/-Dynamic-TSP-Algorithm/blob/c131eff7908834e6efeb79dfe1de1c975c6fa9de/TSP%20example.mp4
+https://github.com/user-attachments/assets/228e1da2-ec52-4c51-98af-c4faaf6a1b36
 ---
 
 ## Key Features
