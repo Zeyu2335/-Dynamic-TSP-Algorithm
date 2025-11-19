@@ -15,13 +15,13 @@ Below is a short demonstration of the **Dynamic TSP Simulation** showing adaptiv
 ## Key Features
 
 - **Multiple TSP Control Modes**
-  - `TSP_rlc`: Dynamic TSP with optional payback and extension limits.
+  - `TSP_rlc`: Dynamic TSP with optional compensation and extension limits.
   - `TSP_extn`: Fixed green extension.
   - `NoTSP`: Baseline case without priority control.
 
 - **Dynamic Green Extension**
   - Dynamically extends green phases based on estimated queue length and bus arrival time.
-  - Optional payback mechanism in subsequent cycles.
+  - Optional compensation mechanism in subsequent cycles.
 
 - **Configurable Market Penetration Rate (MPR)**
   - Parameter `con` controls connected vehicle percentage (0–100).
