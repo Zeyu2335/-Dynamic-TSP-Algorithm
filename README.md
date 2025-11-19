@@ -1,4 +1,5 @@
-# Simulation of Dynamic Traffic Signal Control with Increased Flow
+# Enhancing Transit Signal Priority with Dynamic Green Time Reallocation Strategy
+
 
 ## Overview
 This Python script (`simulation_increasedflow_newframe.py`) simulates an intersection environment with varying traffic flow and signal control strategies. It is designed to evaluate **Transit Signal Priority (TSP)** strategies — including dynamic green reallocation — under different levels of vehicle connectivity and flow conditions. The simulation models both **north–south (NS)** and **east–west (EW)** approaches, incorporating stochastic vehicle arrivals, signal phase dynamics, and queue evolution.
